@@ -283,6 +283,4 @@ You are free to use, modify, and distribute it for educational and personal proj
 
 **Abhinav Dixit**
 
-GitHub: https://github.com/Abhinav-cloud482
-
-If you found this project useful, consider giving it a star on GitHub.
+GitHub: [Abhinav Dixit](https://github.com/Abhinav-cloud482)
