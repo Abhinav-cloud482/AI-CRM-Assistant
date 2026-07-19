@@ -1,0 +1,5 @@
+Customer_ID,Customer_Name,Email,Support_Tickets_Month,Months_Active,Last_Interaction_Summary,Next_Action,Churn_Risk
+101,Alice Smith,alice@example.com,1,12,Initial onboarding smooth.,Check in next month,Low
+102,Bob Jones,bob@example.com,5,3,"The dashboard keeps crashing every time I try to export my monthly reports. If this isn't fixed by Friday, I will be forced to cancel my subscription and move to a competitor.",Schedule urgent retention call with account manager.,High
+103,Charlie Brown,charlie@example.com,0,24,Renewed annual contract.,Send holiday card,Low
+104,Diana Prince,diana@example.com,4,6,Requested refund details.,Escalate to manager,High
